@@ -1,6 +1,6 @@
 # practiceRepo
 Help I dont know what I'm doing
 
-## still lost as fuck
-Help me plox
+## So I now have the SSH key..
+And I'm still figuring out how to do pushes, commits, and so on.
 
